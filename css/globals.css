@@ -1,0 +1,50 @@
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.h1{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;}
+
+.h5{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;}
+
+.nav{
+background-color: #000000;
+}
+
+/* .navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  justify-content: flex-end;
+} */
+
+.hero-section {
+  padding: 100px 0;
+  text-align: center;
+  background-color: #eaecf0;
+}
+
+.services-section {
+  padding: 50px 0;
+  background-color: #e9ecef;
+}
+
+.footer-section {
+    margin-top: 13px;
+  padding: 30px 0;
+  background-color: #000000;
+  color: #fff;
+}
+
+.card {
+    transition: transform 0.3s ease;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
